@@ -6,9 +6,6 @@
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" />
 
 
-
-- 🌱 I’m currently learning **Node js**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-five-woad-95.vercel.app/](https://yahyamomin.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, React js, tailwind CSS**
